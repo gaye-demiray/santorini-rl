@@ -1,1 +1,1 @@
-# santorini-rl
+Santorini reinforcement learning model.
